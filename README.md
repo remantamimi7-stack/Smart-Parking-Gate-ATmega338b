@@ -18,3 +18,6 @@ Awarded the **Best Member Award** .
 - **Language:** Embedded C
 - **IDE:** Microchip Studio
 - **Peripherals:** L298N Motor Driver, DC Motor, IR Obstacle Sensors, 7-Segment Display.
+- ## Project demo
+https://github.com/user-attachments/assets/e3de1938-611a-419a-bafe-50bb130733e9
+
